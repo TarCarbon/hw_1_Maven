@@ -1,9 +1,6 @@
 /.git/
 /.idea/
-/maven/
 /META-INF/
-pom.xml
 /src/
-/target/*
-!/target/myname.jar
+/target/
 
